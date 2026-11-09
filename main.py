@@ -409,8 +409,8 @@ def frame(t, cols, rows, aspect):
     return char, lum, tag, info, int(body.sum())
 
 
-TITLE = "Rose — JIN2"
-SIGN = "@jin_22ee · 2026"
+TITLE = "Rose"
+SIGN = "@ApolionVega · 2026"
 CW, CH, FONT_PX = 9, 14, 15
 W, H = 1080, 960
 COLS, ROWS = W // CW, H // CH
